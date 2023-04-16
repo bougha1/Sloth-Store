@@ -1,5 +1,10 @@
 ## Customize Project
 
+## Install && start
+
+- npm install 
+- npm start
+
 #### .env vars
 
 - REACT_APP_AUTH_DOMAIN=
